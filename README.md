@@ -1,7 +1,7 @@
 # Lab Week 6 & 7 — File Analysis (Scanning Result)
 
-**Name:** _your name_
-**Class:** _your class / student ID_
+**Name:** Muhammad Hayat Bin Abdullah
+**Class:** L01-B03_52215226009
 **Course:** IKB21004 & IKB21403 — Vulnerability Analysis
 **Task:** File Analysis – Scanning Result
 
